@@ -1,0 +1,13 @@
+png 100 80 hw3overlap.png
+
+color 1 0 0
+sphere 0 0 -1 0.3
+color 0 1 0
+sphere .1 -.2 -1.2 0.5
+color 0 0 1
+sphere -.5 -.8 -3 1
+color 1 1 1
+sphere 0.2 -0.2 -.5 0.05
+
+color 1 1 1
+sun -1 -0.5 1

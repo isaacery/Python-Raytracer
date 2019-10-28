@@ -1,0 +1,5 @@
+png 120 120 hw3forward.png
+forward .4 -.5 -3
+sun 0 1 1 1 1 1
+sphere 0 0 -1 0.3
+sphere .4 -.3 -1 0.1

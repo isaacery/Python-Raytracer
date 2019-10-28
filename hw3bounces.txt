@@ -1,0 +1,10 @@
+png 100 100 hw3bounces.png
+
+bounces 10
+
+shininess 0.8
+color 2 2 2
+sun 0 1 1.2
+
+sphere -2 0 -1 2
+sphere 2 0 -1 2

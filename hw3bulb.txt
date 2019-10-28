@@ -1,0 +1,6 @@
+png 120 120 hw3bulb.png
+sphere 0 0 -1 0.3
+bulb 1 .1 0
+sun -1 0 0
+color 0 0.05 0
+bulb 0 0 -.6
